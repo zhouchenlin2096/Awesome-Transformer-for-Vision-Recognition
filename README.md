@@ -389,7 +389,6 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[Code](https://github.co
 * **SplitMixer**: "SplitMixer: Fat Trimmed From MLP-like Models", arXiv, 2022 (*Quintic AI, California*). [[Paper](https://arxiv.org/abs/2207.10255)][[Code](https://github.com/aliborji/splitmixer)]
 * **gSwin**: "gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window", arXiv, 2022 (*PKSHATechnology, Japan*). [[Paper](https://arxiv.org/abs/2208.11718)]
 * **------**: "Analysis of Quantization on MLP-based Vision Models", arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2209.06383)]
-#### Other Attention-Free
 * **DWNet**: "On the Connection between Local Attention and Dynamic Depth-wise Convolution", ICLR, 2022 (*Nankai Univerisy*). [[Paper](https://arxiv.org/abs/2106.04263)][[Code](https://github.com/Atten4Vis/DemystifyLocalViT)]
 * **PoolFormer**: "MetaFormer is Actually What You Need for Vision", CVPR, 2022 (*Sea AI Lab*). [[Paper](https://arxiv.org/abs/2111.11418)][[Code](https://github.com/sail-sg/poolformer)]
 * **ConvNext**: "A ConvNet for the 2020s", CVPR, 2022 (*Facebook*). [[Paper](https://arxiv.org/abs/2201.03545)][[Code](https://github.com/facebookresearch/ConvNeXt)]
