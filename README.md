@@ -7,3 +7,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 
 ## Vision Recognition / Foundation-Model / Backbone
 ### 2023
+
+### 2022
+* **HAT-Net**: "Vision Transformers with Hierarchical Attention", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2106.03180)][[PyTorch (in construction)](https://github.com/yun-liu/HAT-Net)]
+
