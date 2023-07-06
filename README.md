@@ -81,6 +81,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 * **SLaK**: "More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity", ICLR, 2023 (*UT Austin*). [[Paper](https://arxiv.org/abs/2207.03620)][[Code](https://github.com/VITA-Group/SLaK)]
 * **ConvNeXt-V2**: "ConvNeXt V2: Co-designing and Scaling ConvNets with Masked AutoenCoders", CVPR, 2023 (*Meta*). [[Paper](https://arxiv.org/abs/2301.00808)][[Code](https://github.com/facebookresearch/ConvNeXt-V2)]
 * **DFFormer**: "FFT-based Dynamic Token Mixer for Vision", arXiv, 2023 (*Rikkyo University, Japan*). [[Paper](https://arxiv.org/abs/2303.03932)][[Code](https://github.com/okojoalg/dfformer)]
+* **CoC**: "Image as Set of Points", ICLR, 2023 (*Northeastern*). [[Paper](https://arxiv.org/abs/2303.01494)][[Code](https://github.com/ma-xu/Context-Cluster)]
 
 
 ### 2022
@@ -398,4 +399,3 @@ of China*). [[Paper](https://arxiv.org/abs/2207.07284)][[Code](https://github.co
 * **Sequencer**: "Sequencer: Deep LSTM for Image Classification", arXiv, 2022 (*Rikkyo University, Japan*). [[Paper](https://arxiv.org/abs/2205.01972)]
 * **MogaNet**: "Efficient Multi-order Gated Aggregation Network", arXiv, 2022 (*Westlake University, China*). [[Paper](https://arxiv.org/abs/2211.03295)]
 * **Conv2Former**: "Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition", arXiv, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2211.11943)]
-* **CoC**: "Image as Set of Points", ICLR, 2023 (*Northeastern*). [[Paper](https://arxiv.org/abs/2303.01494)][[Code](https://github.com/ma-xu/Context-Cluster)]
