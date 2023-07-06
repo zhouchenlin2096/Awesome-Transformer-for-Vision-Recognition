@@ -8,7 +8,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 ## Vision Recognition / Foundation-Model / Backbone
 ### 2023
 * **GPViT**: "GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation", ICLR, 2023 (*University of Edinburgh, Scotland + UCSD*). [[Paper](https://arxiv.org/abs/2212.06795)][[Code](https://github.com/ChenhongyiYang/GPViT)]
-* **CPVT**: "Conditional Positional Encodings for Vision Transformers", ICLR, 2023 (*Meituan*). [[Paper](https://openreview.net/forum------id=3KWnuT-R1bh)][[Code](https://github.com/Meituan-AutoML/CPVT)]
+* **CPVT**: "Conditional Positional Encodings for Vision Transformers", ICLR, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2102.10882)][[Code](https://github.com/Meituan-AutoML/CPVT)]
 * **LipsFormer**: "LipsFormer: Introducing Lipschitz Continuity to Vision Transformers", ICLR, 2023 (*IDEA, China*). [[Paper](https://arxiv.org/abs/2304.09856)][[Code](https://github.com/IDEA-Research/LipsFormer)]
 * **BiFormer**: "BiFormer: Vision Transformer with Bi-Level Routing Attention", CVPR, 2023 (*CUHK*). [[Paper](https://arxiv.org/abs/2303.08810)][[Code](https://github.com/rayleizhu/BiFormer)]
 * **AbSViT**: "Top-Down Visual Attention from Analysis by Synthesis", CVPR, 2023 (*Berkeley*). [[Paper](https://arxiv.org/abs/2303.13043)][[Code](https://github.com/bfshi/AbSViT)][[Website](https://sites.google.com/view/absvit)]
