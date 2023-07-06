@@ -212,8 +212,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 * **ParCNetV2**: "ParCNetV2: Oversized Kernel with Enhanced Attention", arXiv, 2022 (*Intellifusion, China*). [[Paper](https://arxiv.org/abs/2211.07157)]
 * **VAN**: "Visual Attention Network", arXiv, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2202.09741)][[Code](https://github.com/Visual-Attention-Network)]
 * **SD-MAE**: "Masked autoenCoders is an effective solution to transformer data-hungry", arXiv, 2022 (*Hangzhou Dianzi University*). [[Paper](https://arxiv.org/abs/2212.05677)][[Code](https://github.com/Talented-Q/SDMAE)]
-
-  * **Annotations-1.3B**: "Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations", WACV, 2022 (*Pinterest*). [[Paper](https://arxiv.org/abs/2108.05887)]
+* **Annotations-1.3B**: "Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations", WACV, 2022 (*Pinterest*). [[Paper](https://arxiv.org/abs/2108.05887)]
 * **BEiT**: "BEiT: BERT Pre-Training of Image Transformers", ICLR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2106.08254)][[Code](https://github.com/microsoft/unilm/tree/master/beit)]
 * **EsViT**: "Efficient Self-supervised Vision Transformers for Representation Learning", ICLR, 2022 (*Microsoft*). [[Paper](https://arxiv.org/abs/2106.09785)]
 * **iBOT**: "Image BERT Pre-training with Online Tokenizer", ICLR, 2022 (*ByteDance*). [[Paper](https://arxiv.org/abs/2111.07832)][[Code](https://github.com/bytedance/ibot)]
