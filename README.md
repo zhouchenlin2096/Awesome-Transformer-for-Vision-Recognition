@@ -10,4 +10,4 @@ If you own or find some overlooked papers, you can add it to this document by pu
 
 ### 2022
 * **HAT-Net**: "Vision Transformers with Hierarchical Attention", arXiv, 2022 (*ETHZ*). [[Paper](https://arxiv.org/abs/2106.03180)][[code](https://github.com/yun-liu/HAT-Net)]
-
+* **ACmix**: "On the Integration of Self-Attention and Convolution", CVPR, 2022 (*Tsinghua*). [[Paper](https://arxiv.org/abs/2111.14556)][[code](https://github.com/LeapLabTHU/ACmix)]
