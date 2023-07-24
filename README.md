@@ -7,7 +7,7 @@ If you own or find some overlooked papers, you can add it to this document by pu
 
 ## Vision Recognition / Foundation-Model / Backbone
 ### 2023
-* **RetNet**: Retentive Network: A Successor to Transformer for Large Language Models, Arxiv, 2023 (*Microsoft*). [[Paper] (https://arxiv.org/pdf/2307.08621.pdf)][[Code](https://github.com/microsoft/unilm)]
+* **RetNet**: Retentive Network: A Successor to Transformer for Large Language Models, Arxiv, 2023 (*Microsoft*). [[Paper](https://arxiv.org/pdf/2307.08621.pdf)][[Code](https://github.com/microsoft/unilm)]
 * **GPViT**: "GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation", ICLR, 2023 (*University of Edinburgh, Scotland + UCSD*). [[Paper](https://arxiv.org/abs/2212.06795)][[Code](https://github.com/ChenhongyiYang/GPViT)]
 * **CPVT**: "Conditional Positional Encodings for Vision Transformers", ICLR, 2023 (*Meituan*). [[Paper](https://arxiv.org/abs/2102.10882)][[Code](https://github.com/Meituan-AutoML/CPVT)]
 * **LipsFormer**: "LipsFormer: Introducing Lipschitz Continuity to Vision Transformers", ICLR, 2023 (*IDEA, China*). [[Paper](https://arxiv.org/abs/2304.09856)][[Code](https://github.com/IDEA-Research/LipsFormer)]
